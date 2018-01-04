@@ -2,7 +2,7 @@
     {
         "class": "sourmash_signature",
         "email": "",
-        "filename": "-",
+        "filename": "SRR3225799",
         "hash_function": "0.murmur64",
         "signatures": [
             {
